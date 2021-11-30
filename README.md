@@ -1,7 +1,7 @@
 # Print Google Forms
 ![logo](https://github.com/raylan-oliveira/impressao_google_forms/img/icone.png)
 
-Projeto, em python, que imprime dados (linhas) de uma planilha do google, esses dados são gerados por formulário.
+Projeto, em python, que imprime dados (linhas) de uma planilha do google, esses dados são gerados por formulário do google.
 
 [**Download última versão!!**](https://github.com/raylan-oliveira/impressao_google_forms/releases/latest)
 ## Demonstração:
